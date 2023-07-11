@@ -1,4 +1,4 @@
-### <div align="center">👋 Hi, I’m @MansoorAhmed  Full Stack Developer (PHP, Laravel) 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">👋 Hi, I’m @MansoorAhmed  Full Stack Developer (PHP, Laravel)  🚀</div>  
 - 👀 I’m interested in Web Development, building Projects
 - 🌱 I’m currently Student of MCS at Virtual University of Pakistan.
 - 💞️ I’m looking to collaborate on Web Development Projects, C++, Python, PHP, JavaScript
