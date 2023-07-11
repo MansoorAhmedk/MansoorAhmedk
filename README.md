@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development Projects, C++, Python, PHP, JavaScript
 - 📫 Reach me out using Linkedin, Github, email or facebook . 
 
-<!---
+
 MansoorAhmedk/MansoorAhmedk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
@@ -24,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mansoorahmedk&show_icons=true&locale=en&layout=compact" alt="mansoorahmedk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mansoorahmedk&show_icons=true&locale=en" alt="mansoorahmedk" /></p>
- -->
+ 
