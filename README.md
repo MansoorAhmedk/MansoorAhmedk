@@ -1,6 +1,6 @@
 ### <div align="center">👋 Hi, I’m @MansoorAhmed  Full Stack Developer (PHP, Laravel)  🚀</div>  
-- 👀 I’m interested in Web Development, building Projects
-- 🌱 I’m currently Student of MCS at Virtual University of Pakistan.
+- 👀 I’m interested in building Web Development Projects
+- 🌱 I’m currently learning Generative AI and ChatBots.
 - 💞️ I’m looking to collaborate on Web Development Projects, C++, Python, PHP, JavaScript
 - 📫 Reach me out using Linkedin, Github, email or facebook .
 
