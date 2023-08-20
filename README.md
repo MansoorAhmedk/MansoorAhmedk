@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Web Development Projects, C++, Python, PHP, JavaScript
 - 📫 Reach me out using Linkedin, Github, email or facebook .
 
-## My Skill Set  
+<!--## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
 
@@ -56,7 +56,7 @@
 <a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>  -->
 
 <br/>  
 
