@@ -1,4 +1,5 @@
-### <div align="center">👋 Hi, I’m @MansoorAhmed  Full Stack Developer (PHP, Laravel)  🚀</div>  
+### <div align="center"><h1>👋 Hi, I’m @MansoorAhmed  Full Stack Developer (PHP, Laravel)  🚀</h1></div>  
+<hr>
 - 👀 I’m interested in building Web Development Projects
 - 🌱 I’m currently learning Generative AI and ChatBots.
 - 💞️ I’m looking to collaborate on Web Development Projects, C++, Python, PHP, JavaScript
