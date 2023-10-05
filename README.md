@@ -97,8 +97,8 @@
 <!--
 MansoorAhmedk/MansoorAhmedk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-[![An image of @mansoorahmed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mansoorahmed)](https://holopin.io/@mansoorahmed)
+
+[![An image of @mansoorahmed's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mansoorahmed)](https://holopin.io/@mansoorahmed)--->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=mansoorahmedk&label=Profile%20views&color=0e75b6&style=flat" alt="mansoorahmedk" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mansoorahmedk" alt="mansoorahmedk" /></a> </p>
