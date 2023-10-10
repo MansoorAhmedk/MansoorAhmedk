@@ -8,6 +8,7 @@
 - 💞️ I’m looking to collaborate on Web Development Projects, C++, Python, PHP, JavaScript
 - 📫 Reach me out using Linkedin, Github, email or facebook .
 
+<h2>Tech Stack</h2>
 <table width="100">
 <tr>
     <td align='center' width="200">
