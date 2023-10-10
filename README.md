@@ -11,7 +11,7 @@
 <table width="100">
 <tr>
     <td align='center' width="200">
-        <img src="[https://www.svgrepo.com/show/353648/dialogflow.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png)" width="80">
+        <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="80">
     </td>
 
   <td align='center' width="200">
@@ -31,7 +31,7 @@
  
 <tr>
     <td align='center' width="200">
-        <img src="https://www.svgrepo.com/show/353648/dialogflow.svg" width="80">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/711px-PHP-logo.svg.png" width="80">
     </td>
 
   <td align='center' width="200">
