@@ -30,20 +30,23 @@
 </tr>
 <tr>
     <td align='center' width="200">
-        <img src="https://iconape.com/wp-content/png_logo_vector/elephpant-mascot-php-logo.png" width="100">
+        <img src="https://cdn.freebiesupply.com/images/large/2x/linux-logo-png-transparent.png" width="80">
+        
     </td>
 
   <td align='center' width="200">
+      <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Apache_HTTP_server_logo_%282019-present%29.svg/1920px-Apache_HTTP_server_logo_%282019-present%29.svg.png)" width="80">  
+      
+    </td>
+ <td align='center' width="200">
+       <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="100">
+    </td>
+ <td align='center' width="200">
+      <img src="https://iconape.com/wp-content/png_logo_vector/elephpant-mascot-php-logo.png" width="100">   
+     
+    </td>
+ <td align='center' width="200">
         <img src="https://cdn.worldvectorlogo.com/logos/laravel-2.svg"  width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://cdn.freebiesupply.com/images/large/2x/linux-logo-png-transparent.png" width="80">
-    </td>
- <td align='center' width="200">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="100">
-    </td>
- <td align='center' width="200">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" width="100">
     </td>
  
 </tr>
