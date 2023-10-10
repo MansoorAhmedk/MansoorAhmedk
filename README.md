@@ -1,5 +1,7 @@
-### <div align="center"><h1>👋 Hi, I’m @MansoorAhmed  Full Stack Developer (PHP, Laravel)  🚀</h1></div>  
+### <div align="center"><h1>👋 Hi, I’m @MansoorAhmed 🚀</h1></div>  
+<p align="center">
 <a href="https://github.com/MansoorAhmedk"><img src="https://readme-typing-svg.herokuapp.com/?lines=ChatBots+and+Web+Developer;LAMP+Stack+Developer;JavaScript+Developer;Open+Source+Contributor&font=Roboto&size=26&duration=3500&pause=500&center=true&width=500&height=50&color=0634DE"></a>
+</p>
 
 - 👀 I’m interested in building Web Development Projects
 - 🌱 I’m currently learning Generative AI and ChatBots.
