@@ -21,7 +21,7 @@
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
  <td align='center' width="200">
-        <img src="[https://fiverr-res.cloudinary.com/npm-assets/layout-server/fiverr-og-logo.5fd6463.png](https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg)" width="100">
+        <img src="https://iconape.com/wp-content/png_logo_vector/elephpant-mascot-php-logo.png" width="100">
     </td>
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
