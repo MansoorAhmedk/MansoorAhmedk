@@ -21,7 +21,7 @@
         <img src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg" width="80">
     </td>
  <td align='center' width="200">
-        <img src="https://iconape.com/wp-content/png_logo_vector/elephpant-mascot-php-logo.png" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201" width="100">
     </td>
  <td align='center' width="200">
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
@@ -30,7 +30,7 @@
 </tr>
 <tr>
     <td align='center' width="200">
-        <img src="" width="80">
+        <img src="https://iconape.com/wp-content/png_logo_vector/elephpant-mascot-php-logo.png" width="100">
     </td>
 
   <td align='center' width="200">
