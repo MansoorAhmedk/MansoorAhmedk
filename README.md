@@ -47,6 +47,13 @@
     </td>
  
 </tr>
+<tr>
+    <td align='center' width="200">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/512px-ChatGPT_logo.svg.png" width="80">
+    </td>
+
+  
+</tr>
  
  
 
