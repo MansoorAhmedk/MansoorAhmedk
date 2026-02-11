@@ -48,17 +48,17 @@
 ---
 
 ### 📈 Activity & Impact
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MansoorAhmedk&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Mansoor Ahmed's GitHub Stats" />
   </div>
   <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansoorAhmedk&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Mansoor Ahmed's Top Languages" />
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MansoorAhmedk&theme=tokyonight&hide_border=true" width="89%" alt="Mansoor Ahmed's GitHub Streak" />
 </div>
----
+
 
 ### 🤝 Let's Connect
 <p align="center">
