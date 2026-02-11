@@ -49,14 +49,14 @@
 
 ### 📈 Activity & Impact
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MansoorAhmedk&show_icons=true&theme=transparent&title_color=0634DE&icon_color=0634DE&text_color=555&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansoorAhmedk&layout=compact&theme=transparent&title_color=0634DE&text_color=555&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MansoorAhmedk&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" alt="Mansoor Ahmed's GitHub Stats" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MansoorAhmedk&layout=compact&theme=tokyonight&hide_border=true" width="40%" alt="Mansoor Ahmed's Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MansoorAhmedk&theme=transparent&fire=0634DE&ring=0634DE&sideNums=555&sideLabels=555&dates=555&hide_border=true" width="89%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MansoorAhmedk&theme=tokyonight&hide_border=true" width="89%" alt="Mansoor Ahmed's GitHub Streak" />
 </div>
-
 ---
 
 ### 🤝 Let's Connect
